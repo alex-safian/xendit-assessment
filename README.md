@@ -10,8 +10,6 @@ This is an assessment for Xendit which is done by Alireza Safian. It is a SPA Re
 
 [Technical Assignment](/public/Assessment.pdf)
 
-[Demo](https://xendit-assessment.netlify.app/)
-
 ### Build
 
 React.js has been used as the main framework and tailwindcss as CSS framework:
