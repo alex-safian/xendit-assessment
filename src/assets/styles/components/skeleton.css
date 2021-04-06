@@ -1,0 +1,7 @@
+.ant-skeleton-element {
+  @apply w-full;
+
+  .ant-skeleton-image {
+    @apply mb-4 w-full;
+  }
+}

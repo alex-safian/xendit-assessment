@@ -1,0 +1,14 @@
+/* Vendors */
+@import "vendors/index.css";
+
+/* Base */
+@tailwind base;
+@import "base/index.css";
+
+/* Components */
+@tailwind components;
+@import "components/index.css";
+
+/* Utilities */
+@tailwind utilities;
+@import "utilites/index.css";

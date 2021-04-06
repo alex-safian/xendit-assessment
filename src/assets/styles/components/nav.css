@@ -1,0 +1,28 @@
+.desktop .nav-link {
+  @apply px-3 mr-3 relative font-semibold text-sm;
+
+  &:after {
+    @apply absolute left-0 right-0 bg-transparent h-1;
+    content: "";
+    bottom: -1.5rem;
+    background-color: currentColor;
+    transform: scaleX(0);
+    transform-origin: center center;
+    transition: transform 0.2s ease-in;
+  }
+
+  &:hover {
+    &:after {
+      transform: scaleX(1);
+    }
+  }
+
+  &.active {
+    @apply text-brand-color;
+
+    &:after {
+      transition: none;
+      transform: scaleX(1);
+    }
+  }
+}
