@@ -8,7 +8,7 @@
 
 This is an assessment for Xendit which is done by Alireza Safian. It is a SPA React application and includes University list, University Search, Newsletter and About pages.
 
-[Technical Assignment](/public/ASSIGNMENT.md)
+[Technical Assignment](/public/Assessment.pdf)
 
 [Demo](https://xendit-assessment.netlify.app/)
 
